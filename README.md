@@ -9,4 +9,4 @@ npx expo start -c
 
 ## Demovideo
 
-**Demovideo:** INDSÆT LINK HER
+Demovideo: https://youtube.com/shorts/ssJa7kzU8b0?feature=share
